@@ -19,6 +19,18 @@ p {
     color: #26a69a;
 }
 
+#text-between {
+    font-size: 48px;
+}
+
+#highlight-span {
+    text-align: center;
+    font-size: 30px;
+    margin-right: 25px;
+}
+.light{
+    font-size: 24px;
+}
 .parallax-container {
     min-height: 380px;
     line-height: 0;
@@ -32,6 +44,7 @@ p {
 
 .white-text {
     font-size: 28px;
+    color: black;
 }
 
 .center-align {
@@ -45,7 +58,7 @@ p {
 @media only screen and (max-width : 992px) {
     .parallax-container .section {
         position: absolute;
-        top: 40%;
+        top: 25%;
     }
 
     #index-banner .section {
