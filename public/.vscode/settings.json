@@ -1,9 +1,0 @@
-{
-    "powermode.comboThreshold": 20,
-    "powermode.enabled": true,
-    "powermode.explosionOffset": 9999,
-    "powermode.explosionSize": 69999,
-    "powermode.maxExplosions": 10,
-    "powermode.presets": "exploding-rift",
-    "powermode.shakeIntensity": 5000
-}
