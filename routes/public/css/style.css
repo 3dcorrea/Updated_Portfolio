@@ -67,6 +67,13 @@ p {
     font-size: 60px;
 }
 
+.fa-envelope{
+    font-size: 60px;
+}
+
+.fa-mobile{
+    font-size: 60px;
+}
 @media only screen and (max-width : 992px) {
     .parallax-container .section {
         position: absolute;
