@@ -28,9 +28,11 @@ p {
     font-size: 30px;
     margin-right: 25px;
 }
-.light{
+
+.light {
     font-size: 24px;
 }
+
 .parallax-container {
     min-height: 380px;
     line-height: 0;
@@ -55,25 +57,30 @@ p {
     font-size: 38px;
 }
 
-.fa-linkedin-in{
+.fa-linkedin-in {
     font-size: 60px;
 }
 
-.fa-github{
+.fa-github {
     font-size: 60px;
 }
 
-.fa-file{
+.fa-file {
     font-size: 60px;
 }
 
-.fa-envelope{
+.fa-envelope {
     font-size: 60px;
 }
 
-.fa-mobile{
+.fa-mobile {
     font-size: 60px;
 }
+
+h4 {
+    font-size: 40px;
+}
+
 @media only screen and (max-width : 992px) {
     .parallax-container .section {
         position: absolute;
