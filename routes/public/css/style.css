@@ -55,6 +55,10 @@ p {
     font-size: 38px;
 }
 
+.fa-linkedin-in{
+    font-size: 30px;
+}
+
 @media only screen and (max-width : 992px) {
     .parallax-container .section {
         position: absolute;
